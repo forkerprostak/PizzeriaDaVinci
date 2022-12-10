@@ -19,7 +19,7 @@
 
 ## pizza calzone (zwinięta w pieróg)
 
-<img src = 'img/pizza2.jpg' width=200>
+<img src = 'img2/calzone.jpg' width=200>
 
 |Lp. |                                        pizza                | rozmiar | 30cm |50cm | 60cm |
 |----|-------------------------------------------------------------|---------|------|-----|------|
@@ -29,10 +29,32 @@
 
 ## makarony
 
-<img src = 'img/pizza3.jpg' width=200>
+<img src = 'img2/makaron.jpg' width=200>
 
 |Lp. |                                      makaron                | porcja  | 500g | 650g |
 |----|-------------------------------------------------------------|---------|------|------|
 |1.  |           SPAGHETTI NAPOLI(z sosem pomidorowym i serem)     |         | 26zł | 46zł |
 |2.  |            SPAGHETTI BOLONIA(z sosem bolońskim)             |         | 28zł | 48zł |
 |3.  |            SPAGHETTI CARBONARA(z sosem carbonara)           |         | 30zł | 50zł | 
+
+## sosy
+
+<img src = 'img2/sos.jpg' width=200>
+
+1. Czosnkowy - 5zł
+2. Pomidorowy - 5zł
+3. Barbeque - 5zł
+4. Sezamowy - 5zł
+5. Majonezowy - 5zł
+
+## napoje
+ 
+ <img src = 'img2/sok.jpg' width=200>
+
+|Lp. |   napój           | pojemność  |330ml |500ml |
+|----|-------------------|------------|------|------|
+|1.  |  Woda             |            |  5zł | 10zł |
+|2.  |  Sok pomarańczowy |            |  7zł | 12zł |
+|3.  |  Sok jabłkowy     |            |  7zł | 12zł | 
+|4.  |  Piwo jasne       |            | 10zł | 15zł |
+|5.  |  Piwo ciemne      |            | 12zł | 17zł | 
