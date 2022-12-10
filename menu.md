@@ -2,10 +2,10 @@
 
 ## pizze klasyczne
 
-1. MARGHARITA(sos,ser,pizza)
-2. FUNGHI(sos,ser,pieczarki,pizza)
-3. SALAMI(sos,mozarella,salami,pizza)
-4. VESUVIO(sos,2xser,szynka)
-5. HAWAJSKA(sos,ser,szynka,ananas)
-6. MILANO(sos,ser,szynka,papryka,oregano)
+1. MARGHARITA(sos,ser,pizza) 20zł
+2. FUNGHI(sos,ser,pieczarki,pizza) 22zł
+3. SALAMI(sos,mozarella,salami,pizza) 23zł
+4. VESUVIO(sos,2xser,szynka) 24zł
+5. HAWAJSKA(sos,ser,szynka,ananas) 25zł
+6. MILANO(sos,ser,szynka,papryka,oregano) 26zł
 
