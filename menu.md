@@ -6,6 +6,5 @@
 2. FUNGHI(sos,ser,pieczarki,pizza) 22zł
 3. SALAMI(sos,mozarella,salami,pizza) 23zł
 4. VESUVIO(sos,2xser,szynka) 24zł
-5. HAWAJSKA(sos,ser,szynka,ananas) 25zł
-6. MILANO(sos,ser,szynka,papryka,oregano) 26zł
+5. MILANO(sos,ser,szynka,papryka,oregano) 26zł
 
