@@ -2,7 +2,7 @@
 
 ## pizze klasyczne
 
-<img src = 'img/pizza1.jpg' width=200>
+<img src = 'img/pizza3.jpg' width=200>
 
 |Lp. |                                        pizza                | rozmiar | 30cm |50cm | 60cm |
 |----|-------------------------------------------------------------|---------|------|-----|------|
@@ -16,6 +16,19 @@
 |8.  |                         QUATTRO FROMAGGI(sos,4 sery,oregano)|         | 27zł | 47zł| 57zł |
 |9.  |                         GRECKA(sos,ser,oliwki,sałata lodowa)|         | 28zł | 48zł| 58zł |
 |10. | BARBEQUE(sos,ser,kurczak,boczek,cebula,sos barbeque,oregano)|         | 30zł | 50zł| 60zł |
+
+## pizze wegetariańskie
+
+<img src = 'img/pizza1.jpg' width=200>
+
+
+|Lp. |                                        pizza                | rozmiar | 30cm |50cm | 60cm |
+|----|-------------------------------------------------------------|---------|------|-----|------|
+|1.  |                                    MARGHARITA(sos,ser,pizza)|         | 20zł | 40zł| 50zł |
+|2.  |                              FUNGHI(sos,ser,pieczarki,pizza)|         | 22zł | 42zł| 52zł |     
+|3.  |                                HAWAJSKA VEGE(sos,ser,ananas)|         | 25zł | 45zł| 55zł |
+|4.  |                         MILANO VEGE(sos,ser,papryka,oregano)|         | 26zł | 46zł| 56zł |
+|5.  |                         GRECKA(sos,ser,oliwki,sałata lodowa)|         | 28zł | 48zł| 58zł |
 
 ## pizza calzone (zwinięta w pieróg)
 
@@ -36,6 +49,14 @@
 |1.  |           SPAGHETTI NAPOLI(z sosem pomidorowym i serem)     |         | 26zł | 46zł |
 |2.  |            SPAGHETTI BOLONIA(z sosem bolońskim)             |         | 28zł | 48zł |
 |3.  |            SPAGHETTI CARBONARA(z sosem carbonara)           |         | 30zł | 50zł | 
+
+## sałatki
+
+<img src = 'img2/salad.jpg' width=200>
+
+1. Cezar(sałata, cebula, oliwa z oliwek, pomidor) - 15zł
+2. Grecka(sałata, cebula, oliwa z oliwek, pomidor, oliwki, feta) - 20zł
+3. Hiszpańska(sałata, cebula, oliwa z oliwek, pomidor, oliwki, mozarella) - 25zł
 
 ## sosy
 
