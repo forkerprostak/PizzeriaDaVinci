@@ -1,2 +1,2 @@
 # PizzeriaDaVinci
-Ten plik należy do gałęzi wege
+To jest strona naszej pizzerii.
